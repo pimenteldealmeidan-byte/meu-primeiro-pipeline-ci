@@ -1,3 +1,6 @@
+Criando o arquivo principal
+ConteÃºdo do arquivo:
+
 // AplicaÃ§Ã£o simples para demonstrar CI/CD
 
 function saudacao(nome) {
